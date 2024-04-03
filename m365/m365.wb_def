@@ -6,7 +6,7 @@
 		<define key="LS" value="0.000312" />
 		<define key="NOMINAL_CURRENT" value="4766" />
 		<define key="MOTOR_MAX_SPEED_RPM" value="2500" />
-		<define key="MOTOR_VOLTAGE_CONSTANT" value="40.0" />
+		<define key="MOTOR_VOLTAGE_CONSTANT" value="61.0" />
 		<define key="ID_DEMAG" value="-4766" />
 		<define key="HALL_SENSORS_PLACEMENT" value="DEGREES_120" />
 		<define key="HALL_PHASE_SHIFT" value="138" />
@@ -156,9 +156,9 @@
 		<define key="DEFAULT_TORQUE_COMPONENT" value="0" />
 		<define key="DEFAULT_FLUX_COMPONENT" value="0" />
 		<define key="POSITION_CTRL_ENABLING" value="DISABLE" />
-		<define key="OV_VOLTAGE_PROT_ENABLING" value="ENABLE" />
+		<define key="OV_VOLTAGE_PROT_ENABLING" value="DISABLE" />
 		<define key="UV_VOLTAGE_PROT_ENABLING" value="ENABLE" />
-		<define key="OV_VOLTAGE_THRESHOLD_V" value="42" />
+		<define key="OV_VOLTAGE_THRESHOLD_V" value="64" />
 		<define key="UD_VOLTAGE_THRESHOLD_V" value="10" />
 		<define key="ON_OVER_VOLTAGE" value="TURN_OFF_PWM" />
 		<define key="R_BRAKE_SWITCH_OFF_THRES_V" value="34" />
